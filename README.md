@@ -1,2 +1,2 @@
 # WEB-DEV_JobPortal
-Jon Portal application using Spring Boot , Hibernate
+Job Portal application using Spring Boot , Hibernate
